@@ -118,3 +118,21 @@ iframe {
     gap: 22px;
     color: #0D1321;
 }
+/* my target is here */
+.target{
+    width: 1140px;
+    height: 506px;
+    margin: 50px auto;
+}
+.target-heading{
+    margin: 0 144px 48px 144px;
+    text-align: center;
+}
+.target-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    width: 1000px;
+    padding: 40px;
+}
