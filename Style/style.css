@@ -157,7 +157,6 @@ iframe {
     display: flex;
     align-items: center;
     color: #0D1321;
-    /* justify-content: space-between; */
     background-image: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
     width: 850px;
     padding: 0 10px 0;
@@ -170,7 +169,6 @@ iframe {
     display: flex;
     flex-direction: column;
     gap: 5px;
-    padding-left: 20px;
 }
 /* support start from here */
 .support-cont{
