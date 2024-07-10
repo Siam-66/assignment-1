@@ -136,3 +136,61 @@ iframe {
     width: 1000px;
     padding: 40px;
 }
+/* support start from here */
+.support-cont{
+    margin: 0px 50px 50px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.5);
+    background-image: url(/assets/photos/handshake.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    width: auto;
+    margin: 150px 360px 150px;
+    ma
+}
+.sup-box{
+    margin: 50px 50px;
+    padding: auto;
+    width: 80%;
+}
+
+#support-box{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px 20px 20px 20px;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    width: 100%;
+    margin-right: 16px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: white;
+}
+#submit{
+    font-family: 'azeret mono';
+    margin-right: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 22px 15px 22px;
+    width: 16%;
+    border-radius: 8px;
+    background: white;
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 550;
+    text-align: center;
+}
