@@ -6,7 +6,7 @@
 }
 
 *{
-    /* margin-top: 10px; */
+    margin-bottom: 0;
 }
 .cl-1{
     color: #0D1321;
@@ -193,4 +193,14 @@ iframe {
     font-size: 20px;
     font-weight: 550;
     text-align: center;
+}
+/* footer is here */
+.footer-cont{
+    width: 90%;
+    display: flex;
+    gap: 2em;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px auto 30px auto;
+    padding: 0 2em;
 }
