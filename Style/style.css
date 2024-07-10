@@ -180,12 +180,13 @@ iframe {
     border-radius: 16px;
     background: rgba(0, 0, 0, 0.5);
     background-image: url(../assets/photos/handshake.jpg);
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay;
     width: auto;
     margin: 150px 360px 150px;
+    position: relative;
 }
 .sup-box{
     margin: 50px 50px;
